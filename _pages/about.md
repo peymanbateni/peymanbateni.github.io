@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Peyman Bateni - ML Researcher / Entrepeneur"
+title: "Peyman Bateni - ML Researcher / Entrepreneur"
 excerpt: "About Peyman"
 author_profile: true
 redirect_from: 
